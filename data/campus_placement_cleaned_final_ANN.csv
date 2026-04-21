@@ -1,0 +1,69 @@
+StudentID,CGPA,Internships,Projects,Workshops/Certifications,AptitudeTestScore,SoftSkillsRating,ExtracurricularActivities,PlacementTraining,SSC_Marks,HSC_Marks,Technical_Skills_Score,PlacementStatus,PlacementStatus_encoded
+Amesar Hanisha,7.5,1,1,1,65,4.4,No,No,61,79,66,notplaced,0
+Arane Sumit ,8.9,0,3,2,90,4,Yes,Yes,78,82,47,placed,1
+Bedse Revati ,7.3,1,2,2,82,4.8,Yes,No,79,80,69,notplaced,0
+Bhangare Tejas,7.5,1,1,2,85,4.4,Yes,Yes,81,80,51,placed,1
+Borse Manaswi,8.3,1,2,2,86,4.5,Yes,Yes,74,88,67,placed,1
+Chaudhary Vedant,7.2,0,2,2,71,4.2,Yes,No,55,66,68,notplaced,0
+Chaughule Nishant,7.7,1,1,1,76,4,No,No,62,65,80,notplaced,0
+Dhangar Yogesh ,7.7,2,1,0,85,3.5,Yes,Yes,59,72,72,notplaced,0
+Dhatrak Sakshi,7.7,1,1,0,84,3.9,No,Yes,75,71,46,notplaced,0
+Dusane Pranav ,7.8,1,3,2,79,4.4,Yes,Yes,85,86,75,placed,1
+Gaikwad Sumit,15,2,3,2,90,4.8,Yes,Yes,82,88,68,placed,1
+Gaikwad Tanvi,7.7,1,3,2,90,4.8,Yes,Yes,71,87,81,placed,1
+Ghumare Pratham,8.3,2,3,2,90,4.5,Yes,Yes,84,83,65,placed,1
+Harak Pranav ,-2,1,1,1,74,4.6,No,Yes,63,73,68,notplaced,0
+Iyer Anannya ,7.5,1,1,1,66,4.1,No,No,61,66,79,notplaced,0
+Jadhav dattaray,7.4,0,2,1,78,4.4,No,No,63,66,72,notplaced,0
+Jadhav pooja,8.6,0,3,0,84,4.8,Yes,Yes,62,78,59,placed,1
+Jagtap Snehal,7.7,2,3,2,90,4.7,Yes,Yes,84,86,82,placed,1
+Joshi Chinmay,6.8,2,3,0,73,4.4,Yes,Yes,72,82,55,placed,1
+Kadale Sonali,7.4,1,2,0,70,4.4,No,Yes,58,63,49,notplaced,0
+Karande Sanskruti,7.6,2,1,0,84,4.4,No,Yes,77,75,57,placed,1
+Khairnar Nikhil ,7.4,1,2,1,72,3.5,No,Yes,82,69,67,placed,1
+Khairnar Rajashree,7.7,0,1,0,77,3.4,No,Yes,55,72,76,placed,1
+Khandvi Manali,7.4,1,1,0,60,3.8,No,No,55,71,48,notplaced,0
+Khare Atharva ,7.4,1,2,1,90,4.3,No,Yes,56,69,48,notplaced,0
+Khole Diksha ,6.7,1,1,1,70,4,No,No,68,57,60,notplaced,0
+Konkane Omkar,7.4,2,3,2,78,4.3,Yes,Yes,76,82,45,notplaced,0
+Kulkarni Vaishnavi,8.3,1,1,1,81,4.5,Yes,Yes,64,65,88,notplaced,0
+More Prasad ,7.5,1,2,1,84,4.4,No,No,66,73,52,notplaced,0
+Nalawade Sarthak,7,0,1,1,63,3.9,No,Yes,60,61,83,notplaced,0
+Nerkar Digambar,8.4,2,3,2,90,4.6,Yes,Yes,55,80,84,placed,1
+Pagare Sidhhika,7.4,1,2,1,76,4.7,No,Yes,66,69,49,notplaced,0
+Pawar Chetan ,8.5,1,3,0,90,4.8,Yes,Yes,85,85,90,placed,1
+Pawar Tushar,8.6,1,2,2,75,4.3,Yes,Yes,62,80,47,placed,1
+Salunke Pratham,6.9,0,1,0,70,3.9,No,Yes,79,68,60,placed,1
+Shindikar Shubhangi,7.8,1,1,1,67,4.3,No,No,65,73,90,notplaced,0
+Vibhandik Gaurav,8.3,1,2,2,89,4.8,Yes,Yes,75,81,58,placed,1
+Vitnor Suhani ,8.2,1,2,2,77,4.2,No,Yes,72,72,52,placed,1
+Wadgaokar Shravani,8.5,2,3,3,90,4.7,Yes,Yes,79,86,76,placed,1
+Wadile Aditya ,6.7,0,3,2,88,4.2,Yes,Yes,72,86,88,placed,1
+Wakekar Prem,8.6,2,3,1,90,4.8,Yes,Yes,63,84,57,placed,1
+Yadav Ayush ,8.3,2,3,2,85,4.8,Yes,Yes,77,83,80,placed,1
+Zambare Toshal,6.7,0,1,1,72,4.4,No,No,55,60,75,notplaced,0
+Bhabda Riddhi ,8.6,2,3,2,88,4.7,Yes,Yes,80,87,87,placed,1
+Gawali Tushar ,7.4,1,3,0,86,4.8,No,Yes,70,73,53,notplaced,0
+Naik Atharva ,6.7,1,1,2,73,4.5,No,No,55,66,42,placed,1
+Patole Prathamesh ,6.9,1,1,1,76,4.4,No,No,55,65,73,notplaced,0
+Vaidya Vaidehi,7,1,1,0,62,4.3,No,Yes,59,67,86,notplaced,0
+Chaudhari Vrushali,8.1,1,3,2,90,4.6,Yes,Yes,77,87,46,placed,1
+Ubale Aditya,7.7,1,2,0,74,3.8,Yes,No,55,66,84,notplaced,0
+Ahire Sarthak,6.5,0,2,1,77,4.8,No,Yes,56,65,40,notplaced,0
+Avhad Tanvi ,8.2,1,3,0,65,4.1,Yes,No,66,65,45,notplaced,0
+Birari Om,8.1,2,3,2,90,4.7,Yes,Yes,82,82,67,placed,1
+Khan Aftab ,6.5,1,2,1,80,4.5,Yes,Yes,72,67,65,notplaced,0
+Landge Rushikesh,6.5,0,2,1,72,4.5,No,No,57,69,88,notplaced,0
+Mahajan Rohan ,8.8,2,3,2,90,4.8,Yes,Yes,86,88,84,placed,1
+Mali yash,8,1,1,0,74,4.5,Yes,Yes,55,65,54,notplaced,0
+Menariya Jyoti,8.4,2,2,2,81,4.6,Yes,Yes,77,82,54,placed,1
+Mohite Kasturi,8,1,1,0,86,4.2,No,No,55,83,80,notplaced,0
+Patil Anurag ,6.6,0,1,0,76,3.9,No,Yes,78,69,42,placed,1
+Patil Apurva,7.7,2,2,0,86,4,Yes,Yes,79,64,94,notplaced,0
+Patil Yogesh,8.2,1,2,1,86,4.3,Yes,Yes,86,63,83,placed,1
+Rajpurohit Nidhi ,7.2,1,2,0,74,4.1,No,No,70,65,83,notplaced,0
+Ramraje Vaishanvi,6.6,1,2,1,72,4.1,No,No,55,75,58,notplaced,0
+Shelke Gayatri ,7.6,1,2,0,77,4.6,Yes,No,84,67,93,notplaced,0
+Talekar Aarti ,8,0,3,0,68,4.2,Yes,No,64,83,51,placed,1
+Rasne Yash ,7.8,2,3,2,87,4.8,Yes,No,90,83,43,notplaced,0
+Ghumare Shreya,7.2,1,1,0,82,4.6,Yes,Yes,57,64,60,notplaced,0
