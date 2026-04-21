@@ -157,9 +157,9 @@ col1, col2 = st.columns([1, 2])
 
 with col1:
     if len(df_filtered) > 0:
-        student_options = ["-- Select a Student --"] + list(df_filtered.index)
+        student_options = ["-- Select a Student --"] + list(df_filtered['StudentID'])
         selected_student = st.selectbox(
-            "Select Student Index",
+            "Select Student Name",
             student_options
         )
     else:
@@ -167,7 +167,7 @@ with col1:
         st.warning("⚠️ No students available in filtered data")
     
     if selected_student and selected_student != "-- Select a Student --":
-        student = df_filtered.loc[selected_student]
+        student = df_filtered[df_filtered['StudentID'] == selected_student].iloc[0]
         
         features = [
             "Internships",
@@ -193,7 +193,7 @@ with col1:
 
 with col2:
     if selected_student and selected_student != "-- Select a Student --":
-        student = df_filtered.loc[selected_student]
+        student = df_filtered[df_filtered['StudentID'] == selected_student].iloc[0]
         available_features = [f for f in ["Internships", "Projects", "Workshops/Certifications", "AptitudeTestScore", "SoftSkillsRating", "ExtracurricularActivities", "PlacementTraining", "SSC_Marks", "HSC_Marks", "Technical_Skills_Score"] if f in student.index]
         
         fig = go.Figure(go.Bar(
@@ -231,9 +231,9 @@ get_started = st.button("🔮 Predict Placement", use_container_width=True)
 
 if get_started:
     if not selected_student or selected_student == "-- Select a Student --" or len(df_filtered) == 0:
-        st.warning("⚠️ Please select a student ID from the dropdown above to predict placement")
+        st.warning("⚠️ Please select a student name from the dropdown above to predict placement")
     else:
-        student = df_filtered.loc[selected_student]
+        student = df_filtered[df_filtered['StudentID'] == selected_student].iloc[0]
         confidence = predict_placement(student)
     
         col1, col2, col3 = st.columns([1, 2, 1])
